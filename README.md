@@ -8,9 +8,9 @@ The was designed to show a whole range of resipes show show any kind of meal or 
 
 Links below to my GitHub Pages and Github Repository:
 
-- [Github Pages](https://jonathanuk84.github.io/Project-2-api-recipe/)
+- [Github Pages](https://jonathanuk84.github.io/Recipe-search/)
 
-- [Github Repository](https://github.com/jonathanuk84/Project-2-api-recipe)
+- [Github Repository](https://github.com/jonathanuk84/Recipe-search)
 
 
 
@@ -87,7 +87,7 @@ at the first glance.
     * To test responsiveness on all screen sizes
 
 
-- [GitHub Pages](https://jonathanuk84.github.io/Resume/.)
+- [GitHub Pages](https://jonathanuk84.github.io/Recipe-search/.)
     * Website hosted on GitHub pages
 
 
