@@ -1,10 +1,10 @@
 # My recipes
 
-Milestone Project - 2 - rpi recipes
+Milestone Project - 2 - API recipes
 
-I have developed this page to provide a search based website. I have bulit this as a single page website that has an api search for any recipes.
+I have developed this page to provide a search based website. I have built this as a single page website that has an API search for any recipes.
 
-The was designed to show a whole range of resipes show show any kind of meal or deserts that any one was looking to cook or bake.
+The was designed to show a whole range of recipes including any type of meal or desert that any one is looking to cook or bake.
 
 Links below to my GitHub Pages and Github Repository:
 
@@ -13,13 +13,11 @@ Links below to my GitHub Pages and Github Repository:
 - [Github Repository](https://github.com/jonathanuk84/Recipe-search)
 
 
-
-
 ![AmIResponsive](assets/ReadMe.Images/Responsive.PNG))
 
 # UX
-This website has been designed to act as an online recipes finder for people looking for specific meals or deserts. It has been created showing my skills 
-in HTML, CSS and js so far.
+This website has been designed to act as an online recipe finder for people looking for specific meals or deserts. It has been created showing my skills 
+in HTML, CSS and JavaScript so far.
 
 
 # Wireframe
@@ -54,8 +52,7 @@ The main use for this site would be someone looking for recipes for something th
 - Full recipes on what they are searching. 
 
 # Features
-- **Home** - A home button to return right back to the search menu.
-at the first glance. 
+- **Home** - A home button to return right back to the search menu. 
 
 - **search bar** - This section will search any recipe that is inputted. 
 
@@ -64,7 +61,7 @@ at the first glance.
 # Technologies used
 
 - [JavaScript](https://www.javascript.com/)
-    * To add functionality to my api. 
+    * To add functionality to my API. 
 
 
 - [CSS(Cascading Style Sheets)](https://www.w3.org/Style/CSS/Overview.en.html)
@@ -146,14 +143,11 @@ at the first glance.
 
 
 
-- # Tested on different browsers
+## Tested on different browsers
     * **Internet Explorer** The heading section layout changes when loaded in Internet Explorer, when on small screen sizes the image is too big and scrolls, 
     on larger screen sizes.
 
 - Checked all links work correctly and open in a seperate page. 
-    * these ase the only error which I'm unsure how to fix.
-
-    ![html validator](assets/ReadMe.Images/errors.PNG)
 
 - Checked that the navbar stays at the correct part of the page.
 
@@ -166,6 +160,10 @@ at the first glance.
     it has been tested on iphones samsung s8/s10/s20 and ipad and samsung galaxy s4. 
     works find sideways or upright.
 
+# Known Bugs
+These are the only errors, which I'm unsure how to fix.
+
+![html validator](assets/ReadMe.Images/errors.PNG)
 
 
 # Deployment and Demo 
@@ -219,7 +217,3 @@ The project is hosted on GitHub Pages
 The benefits of hosting your website on GitHub pages is that any pushed changes to your project will automatically update the website. Development branches can be created and merged to the master when complete.
 It may take a moment for changes to appear on the hosted website.
 During development the site is written in VS Code. It is run using Live Server plugin for VS Code.
-
-
-#
- 
