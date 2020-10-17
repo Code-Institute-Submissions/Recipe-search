@@ -32,3 +32,16 @@ main {
 	/* height of header */
 	margin-top: 55px;	
 }
+
+#searchContainer {
+	padding-top:100px;	
+}
+
+.footer > .container {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.recipe-result{	
+	color: black;
+}
