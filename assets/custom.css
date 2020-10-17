@@ -10,3 +10,11 @@ body {
   color: white;
   background-color: lightgrey;
 }
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  min-height: 60px;
+  background-color: #343a40;
+  color: white;
+}
